@@ -1,0 +1,5 @@
+risk_id,risk_category,risk_level,status,raised_date
+R001,License Compliance,High,Open,2026-08-01
+R002,Record Keeping,Medium,Closed,2026-07-15
+R003,Training Gap,Medium,Open,2026-09-02
+R004,Data Governance,Low,Open,2026-09-10
