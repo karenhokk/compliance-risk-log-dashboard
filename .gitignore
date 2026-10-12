@@ -1,0 +1,11 @@
+# Real confidential risk files
+*_real_risk*.csv
+*.env
+
+# Generated local outputs
+output/*.png
+output/*.csv
+
+# Python
+__pycache__/
+*.pyc
